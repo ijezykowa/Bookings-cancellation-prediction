@@ -1,4 +1,4 @@
-# Bookings-cancellation-prediction
+# Bookings-cancellation-prediction Authors: Marcelina Pabian(PMarcelina), Magdalena Czapska (czapsia), Izabela Kaszubowska (ijezykowa)
 Prediction of bookings cancellation in hotels
 ABOUT THE PROJECT:
 
